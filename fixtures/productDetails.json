@@ -1,0 +1,94 @@
+{
+  "Cake": {
+    "id": 1,
+    "parent_product_id": 0,
+    "parent_product_name": null,
+    "status": "ACTIVE",
+    "displayed_in_webshop": 1,
+    "name": {
+      "en": "Cake"
+    },
+    "code": "001",
+    "code2": "3711234567890",
+    "code3": "",
+    "code5": "",
+    "code6": "",
+    "code7": "",
+    "code8": "",
+    "price": 230,
+    "price_with_tax": 280.6,
+    "tax_rate_id": 2,
+    "variation_description": [
+      {
+        "dimension_id": 0,
+        "dimension_name": null,
+        "dimension_value_id": 0,
+        "dimension_value_code": "",
+        "dimension_value_name": null,
+        "dimension_value_order": 0
+      },
+      {
+        "dimension_id": 0,
+        "dimension_name": null,
+        "dimension_value_id": 0,
+        "dimension_value_code": "",
+        "dimension_value_name": null,
+        "dimension_value_order": 0
+      },
+      {
+        "dimension_id": 0,
+        "dimension_name": null,
+        "dimension_value_id": 0,
+        "dimension_value_code": "",
+        "dimension_value_name": null,
+        "dimension_value_order": 0
+      }
+    ]
+  },
+  "Ball": {
+    "id": 2,
+    "parent_product_id": 0,
+    "parent_product_name": null,
+    "status": "ACTIVE",
+    "displayed_in_webshop": 1,
+    "name": {
+      "en": "Ball"
+    },
+    "code": "2",
+    "code2": "1234567890",
+    "code3": "",
+    "code5": "",
+    "code6": "",
+    "code7": "",
+    "code8": "",
+    "price": 100,
+    "price_with_tax": 122,
+    "tax_rate_id": 2,
+    "variation_description": [
+      {
+        "dimension_id": 0,
+        "dimension_name": null,
+        "dimension_value_id": 0,
+        "dimension_value_code": "",
+        "dimension_value_name": null,
+        "dimension_value_order": 0
+      },
+      {
+        "dimension_id": 0,
+        "dimension_name": null,
+        "dimension_value_id": 0,
+        "dimension_value_code": "",
+        "dimension_value_name": null,
+        "dimension_value_order": 0
+      },
+      {
+        "dimension_id": 0,
+        "dimension_name": null,
+        "dimension_value_id": 0,
+        "dimension_value_code": "",
+        "dimension_value_name": null,
+        "dimension_value_order": 0
+      }
+    ]
+  }
+}
