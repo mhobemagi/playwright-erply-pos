@@ -2,10 +2,10 @@ import { defineConfig } from "@playwright/test"
 import { User } from "./tests/types/user"
 
 export const localUser: User = {
-  clientcode: "545455",
-  username: "pw test",
-  password: "Posuitests123",
-  warehouseid: "1",
+  clientcode: "",
+  username: "",
+  password: "",
+  warehouseid: "",
 }
 
 export const URLs = {
